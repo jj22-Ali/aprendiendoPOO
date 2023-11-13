@@ -1,4 +1,4 @@
-//objetos con notación literal
+//objetos con notación literal se usa cuando queremos creear un objeto o dos objetos no más.    
 
 let pelicula = {
     // propiedades --> llave : valor
